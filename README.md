@@ -7,19 +7,19 @@ From your fork, provide answers to questions below.
 When you have answered all the questions, commit and push to your repository.
 
 1. Who is your favorite super hero?
-
+megamind
 2. What is one interesting thing about you?
 
 3. What animal is your spirit animal?
-
+crow
 4. What is your favorite food?
-
+kafteji 
 5. What is your favorite beverage?
-
+juice
 6. What is your favorite national park or landmark?
-
+ain drahel
 7. What is your favorite movie?
-
+hannibal lecter
 ### Advanced Content:
 
 From your fork, make a new branch.
